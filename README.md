@@ -1,8 +1,7 @@
 ### Ola!! Eu sou o Mateus de Lima Silva
 
-- 🌱 Python, C# e SQL
+- 🌱 Aprendendo: Python, C# e SQL
 - 📫 How to reach me: silvametusdelima@yahoo.com.br
-- 😄 Pronouns: ele/dele
 <div>
   <a href="https://github.com/MateusdeLima">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MateusdeLima&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
