@@ -1,6 +1,6 @@
 ### Ola!! Eu sou o Mateus de Lima Silva
 
-- 🌱 Aprendendo: Python, C# e SQL
+- 🌱 Aprendendo:Desenvolvimento web, Git, HTML, CSS, JavaScript, Python, C# e SQL.
 - 📫 How to reach me: silvametusdelima@yahoo.com.br
 <div>
   <a href="https://github.com/MateusdeLima">
