@@ -1,5 +1,8 @@
 ### Ola!! Eu sou o Mateus de Lima Silva
 
+![Naruto-git2](https://user-images.githubusercontent.com/89278014/195966401-c8d3c09b-91c3-46b5-ae9e-8bcc35f9d9aa.gif)
+
+
 - 🌱 Aprendendo:Desenvolvimento web, Git, HTML, CSS, JavaScript, Python, C# e SQL.
 - 📫 How to reach me: silvametusdelima@yahoo.com.br
 <div>
