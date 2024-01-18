@@ -1,17 +1,22 @@
 <h1 align="center">
 <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Olá!+👋;+Me+chamo+Mateus!;" />
-</h1>
+</h1> 
 
-![Naruto-git2](https://user-images.githubusercontent.com/89278014/195966401-c8d3c09b-91c3-46b5-ae9e-8bcc35f9d9aa.gif)
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/89278014/195966401-c8d3c09b-91c3-46b5-ae9e-8bcc35f9d9aa.gif" />
+</div>
 
-
-
-- 🌱 Learning: Desenvolvimento web, Git, HTML, CSS, JavaScript, PHP, C# e SQL.
-- 📫 How to reach me: silvametusdelima99@gmail.com
-<div>
-  <a href="https://github.com/MateusdeLima">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MateusdeLima&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MateusdeLima&layout=compact&langs_count=7&theme=dracula"/
+<div align="center">
+  <hr />
+    <div align="left">
+      - 🌱 Learning: Desenvolvimento web, Git, HTML, CSS, JavaScript, PHP, C# e SQL.
+      <br/>
+      - 📫 How to reach me: silvametusdelima99@gmail.com
+    </div>
+  <hr />
+    <a href="https://github.com/MateusdeLima">
+      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MateusdeLima&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MateusdeLima&layout=compact&langs_count=7&theme=dracula"/
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
@@ -29,11 +34,11 @@
   
   ##
   
-  <div>
+<div>
   <a href="https://instagram.com/mat_9921?utm_medium=copy_link" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:silvamateudelima99@gamil.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/mateus-de-lima-silva-4b577a211" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <div>
+<div>
 
 <h1 align="center">
 <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Obrigado+pela+visita!;" />
